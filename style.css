@@ -1,0 +1,134 @@
+* { box-sizing: content-box;}
+
+body { background-color: #FBFBFB;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+.card-item1 {
+ 
+width: 350px;
+height: 350px;
+padding: 12px;
+border-radius: 8px;
+background-color: #FFFFFF;
+
+
+}
+
+
+
+.pic-item { 
+
+display: flex;
+justify-content: center;
+
+
+}
+
+.title-1{
+
+    color: #0071DC;
+    
+    text-align: center;
+}
+
+
+h2 { text-align: center;}
+
+
+aside { background-color: #0071DC;
+padding: 15px;
+color: white;
+height: 500px;
+
+
+
+
+
+
+
+
+
+}
+.central { 
+
+
+background-color: #0071DC;
+display: flex;
+justify-content: space-around;
+
+
+padding: 5px;}
+
+
+
+li { padding-top: 8px; padding-bottom: 4px;
+    list-style: none;
+}
+
+
+.aside-container {
+
+text-align: start;
+
+
+}
+
+ul { display: inline;
+align-items: flex-start;}
+
+
+.menu-tape { font-size: 1.5rem;
+padding-bottom: 25px;}
+
+.aside-contianer-parent {
+    display: block;
+    justify-content: space-around;
+   
+}
+
+.icon-group { 
+    
+    display: flex;
+    
+    justify-content: center;}
+    
+
+.formulario { color: white;
+
+text-decoration: none;
+
+}    
+
+
+
+.form-section {
+
+    background-color: #0071DC;
+    color: pink;
+   
+    justify-content: center;
+
+
+
+
+}
+
+
+.form-section { display: flex;}
+
+button { margin-top: 20px;
+margin-bottom: 20px;}
+
+
+.form-label { display: flex;
+}
+
+
+.input-class { padding-left: 3px;}
